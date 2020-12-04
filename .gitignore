@@ -1,5 +1,7 @@
 # No Eclipse Related Files #
 ###################
+
+
 .classpath
 .project
 .settings/
@@ -32,6 +34,7 @@ feature.common.properties
 *.aux
 *_trace
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 ## no eclipse packs
@@ -40,3 +43,5 @@ feature.common.properties
 ## Generated When Building
 plugins/org.wso2.developerstudio.eclipse.gmf.esb.persistence/library.jar
 >>>>>>> esb/master
+=======
+>>>>>>> dss/master
