@@ -10,7 +10,7 @@
     <artifactId>org.wso2.integrationstudio.platform.wso2plugins.samples.feature</artifactId>
     <packaging>eclipse-feature</packaging>
     <name>WSO2 Integration Studio Kernel Plugin Default Samples Feature</name>
-    <description>This feature contains the default wso2 plugin samples for developer studio kernel.</description>
+    <description>This feature contains the default wso2 plugin samples for Integration Studio kernel.</description>
     <build>
         <plugins>
             <plugin>

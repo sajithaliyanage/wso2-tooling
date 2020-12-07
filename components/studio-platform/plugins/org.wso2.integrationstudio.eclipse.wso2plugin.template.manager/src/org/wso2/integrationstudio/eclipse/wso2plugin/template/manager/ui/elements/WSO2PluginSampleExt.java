@@ -34,7 +34,7 @@ import com.google.gson.annotations.SerializedName;
 /*
  * This is a WSO2 Plugin Element of which, the parameters should be defined when
  * a sample is added via the
- * provided extension point to the developer studio plugin samples.
+ * provided extension point to the Integration Studio plugin samples.
  */
 public class WSO2PluginSampleExt {
 

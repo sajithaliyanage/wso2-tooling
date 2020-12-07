@@ -19,7 +19,7 @@ import java.util.Vector;
 
 /*
  * WSO2 Plugin Element List which defined a list of WSO2 Plugin elements defined
- * in the developer studio
+ * in the Integration Studio
  * plugins available at startup.
  */
 public class WSO2PluginSampleExtList {

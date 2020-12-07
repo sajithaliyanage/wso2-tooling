@@ -20,7 +20,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * This class maintains all the WSO2 developer studio related
+ * This class maintains all the WSO2 Integration Studio related
  * maven plugins and their versions.  
  */
 public class WSO2MavenPluginVersions {

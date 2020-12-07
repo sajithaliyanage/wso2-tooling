@@ -37,7 +37,7 @@ import org.wso2.integrationstudio.eclipse.platform.ui.Activator;
 /**
  * This action will be executed on selection of
  * Maven-->'Upgrade Plugin Versions in pom.xml' context menu
- * item of developer studio project.
+ * item of Integration Studio project.
  *
  */
 public class UpgradePluginVersionsAction implements IObjectActionDelegate {

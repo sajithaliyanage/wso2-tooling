@@ -306,7 +306,7 @@ public class UpdateManager {
 	}
 
 	/**
-	 * Install selected updates in to developer studio. Note: call
+	 * Install selected updates in to Integration Studio. Note: call
 	 * {@link #setSelectedUpdates(List) setSelectedUpdates} first.
 	 * 
 	 * @param monitor
@@ -389,7 +389,7 @@ public class UpdateManager {
 	}
 
 	/**
-	 * Install selected features in to developer studio. Note: call
+	 * Install selected features in to Integration Studio. Note: call
 	 * {@link #setSelectedFeaturesToInstall(List) setSelectedFeaturesToInstall}
 	 * first.
 	 * 

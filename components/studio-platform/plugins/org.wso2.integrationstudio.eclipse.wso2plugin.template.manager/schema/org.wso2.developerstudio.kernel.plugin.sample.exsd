@@ -6,7 +6,7 @@
          <meta.schema plugin="org.wso2.integrationstudio.eclipse.wso2plugin.template.manager" id="templates" name="Extension Templates"/>
       </appinfo>
       <documentation>
-         This is an extension point to register WSO2 plugin samples to developer studio kernel.
+         This is an extension point to register WSO2 plugin samples to Integration Studio kernel.
       </documentation>
    </annotation>
 
